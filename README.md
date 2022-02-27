@@ -126,7 +126,7 @@ graph TD;
   A1[Sharing state]-->B5[Custom implementation]
 ```
 
-#### Summary 
+#### [Summary](https://www.xmind.net/m/nfT7ef/) 
 
 ![Micro-Frontend Mindmap](assets/v1-microfrontend-mandmap.png)
 
