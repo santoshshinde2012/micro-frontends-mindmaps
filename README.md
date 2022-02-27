@@ -2,7 +2,7 @@
 
 #### What
 
-This repository contains mindmaps we have created about Micro-Frontend based on public information.  As all of the information is already in the public domain, please feel free to use and share these mindmaps however you like.  
+In this repository, you will find mindmaps we created about Micro-Frontend based on public information. As all of the information is already in the public domain, please feel free to use and share these mindmaps however you like.  
 
 #### What is Micro-Frontend ?
 
