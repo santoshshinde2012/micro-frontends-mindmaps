@@ -126,6 +126,20 @@ graph TD;
   A1[Sharing state]-->B5[Custom implementation]
 ```
 
+#### Micro Frontends Frameworks
+
+1. [Bit](https://bit.dev/)
+2. [Webpack 5 and Module Federation](https://webpack.js.org/concepts/module-federation/)
+3. [Single SPA](https://single-spa.js.org/)
+4. [Systemjs](https://github.com/systemjs/systemjs)
+5. [Piral](https://github.com/smapiot/piral)
+6. [Open Components](https://github.com/opencomponents/oc)
+7. [Qiankun](https://github.com/umijs/qiankun)
+8. [Luigi](https://luigi-project.io/)
+9. [FrintJS](https://github.com/frintjs/frint)
+10. [Mosaic 9](https://www.mosaic9.org/)
+11. [PuzzleJS](https://github.com/puzzle-js/puzzle-js)
+
 #### [Summary](https://www.xmind.net/m/nfT7ef/) 
 
 ![Micro-Frontend Mindmap](assets/v1-microfrontend-mandmap.png)
