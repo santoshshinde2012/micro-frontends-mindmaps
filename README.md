@@ -126,6 +126,45 @@ graph TD;
   A1[Sharing state]-->B5[Custom implementation]
 ```
 
+#### Micro-Frontends Communication Patterns
+
+##### 1. Parent to Fragment
+
+
+```mermaid
+graph TD;
+  A1[Parent to Fragment]-->B1[Element Attributes]
+  A1[Parent to Fragment]-->B2[Connected Callback]
+  A1[Parent to Fragment]-->B3[Attribute Change Callback]
+```
+
+##### 2. Fragment to Parent
+
+```mermaid
+graph TD;
+  A1[Fragment to Parent]-->B1[Custom Events]
+  A1[Fragment to Parent]-->B2[Event Listeners]
+```
+
+##### 3. Fragment to Fragment
+
+```mermaid
+graph TD;
+  A1[Fragment to Fragment]-->B1[DOM Manipulation]
+  A1[Fragment to Fragment]-->B2[Attributes and Callbacks]
+  A1[Fragment to Fragment]-->B3[Event Bus]
+  A1[Fragment to Fragment]-->B4[Broadcast Channel API]
+```
+
+##### 4. Global Communication
+
+```mermaid
+graph TD;
+  A1[Global Communication]-->B1[URL Params]
+  A1[Fragment to Fragment]-->B2[Global Context and State]
+  A1[Fragment to Fragment]-->B3[State Management Libraries Redux]
+```
+
 #### Micro Frontends Frameworks
 
 1. [Bit](https://bit.dev/)
