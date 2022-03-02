@@ -186,6 +186,7 @@ graph TD;
 
 #### References
 
-1. [https://www.xmind.net/m/nfT7ef/](https://www.xmind.net/m/nfT7ef/)
+1. [Mindmap](https://www.xmind.net/m/nfT7ef/)
 2. [Behind leroymerlin.fr: Micro Frontends](https://medium.com/adeo-tech/behind-leroymerlin-fr-micro-frontends-47fd7c53f99d)
 3. [Resources to start with Micro Frontend](https://gist.github.com/santoshshinde2012/ff346ae8aca26644fe15409847138e49)
+4. [Micro Frontends Conference](https://hasgeek.com/jsfoo/microfrontends-conf/videos)
