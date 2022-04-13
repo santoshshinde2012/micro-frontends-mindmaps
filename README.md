@@ -15,6 +15,18 @@ graph TD;
   Micro-Frontend-->A3[Micro-Frontends Communication];
 ```
 
+#### Micro-frontends decisions framework
+
+The 4 pillars that we need to decide up-front when architecting micro-frontends, as stated by [Luca Mezzalira](https://github.com/lucamezzalira) here in his medium article - [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513).
+
+```mermaid
+graph TD;
+  A1[Micro-frontends decisions framework]-->B1[Definition];
+  A1[Micro-frontends decisions framework]-->B2[Composition];
+  A1[Micro-frontends decisions framework]-->B3[Route];
+  A1[Micro-frontends decisions framework]-->B4[Communication];
+```
+
 #### Defining Micro-Frontends
 
 Identifying micro-frontends becomes quite straightforward. Understanding how users behave is of great use in determining our micro-frontends. You can read Luca Mezzalira's full article [here](https://medium.com/dazn-tech/identifying-micro-frontends-in-our-applications-4b4995f39257) for more details.
