@@ -191,6 +191,18 @@ graph TD;
 10. [Mosaic 9](https://www.mosaic9.org/)
 11. [PuzzleJS](https://github.com/puzzle-js/puzzle-js)
 
+#### Microfrontends with Module Federation
+
+Module federation allows a JavaScript application to dynamically run code from another bundle/build, on both client and server.
+
+- loading the module (asynchronous)
+- evaluating the module (synchronous)
+
+##### Why Use Module Federation?
+
+- Better way to share code : Expose any code from any application that Webpack supports.
+- Environment-Independent : Use shared code in different environment web, Node.js etc.
+- Resolves Dependency Issues : Federated code defines their dependencies and if Webpack can’t find it in the scope, will download it.
 #### [Summary](https://www.xmind.net/m/nfT7ef/) 
 
 ![Micro-Frontend Mindmap](assets/v1-microfrontend-mandmap.png)
