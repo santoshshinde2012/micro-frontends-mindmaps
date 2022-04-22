@@ -198,7 +198,7 @@ graph TD;
 - Unidirectional flow at the rescue
 - Avoid organizational coupling
 - Multiple micro-frontends calling same endpoint
-- 
+
 
 #### Micro Frontends Frameworks
 
