@@ -191,6 +191,15 @@ graph TD;
 
 #### Micro-Frontends anti-patterns
 
+- Difference between micro-frontend and component
+- Multi frameworks approach
+- Write programs that do thing and do it well
+- Dependency hell
+- Unidirectional flow at the rescue
+- Avoid organizational coupling
+- Multiple micro-frontends calling same endpoint
+- 
+
 #### Micro Frontends Frameworks
 
 1. [Bit](https://bit.dev/)
