@@ -23,7 +23,9 @@ graph TD;
 - 2019: [Martin Fowler wrote his article about Micro-frontends and promoted Micro-frontends architecture in his article “Micro Frontends.”](https://martinfowler.com/articles/micro-frontends.html)
 - Apr 2020: [We see microfrontend architect design as a trend early in 2020 - Software Architecture and Design InfoQ Trends](https://www.infoq.com/articles/architecture-trends-2020/)
 - Oct 2020: [By the end of 2020, Zack Jackson released his masterpiece “Module Federation” as a plugin in Webpack 5](https://webpack.js.org/concepts/module-federation/)
+- 2021: Discovery
 - Apr 2021: [Thought-works started to recommend Module Federation for Micro-frontends implementations](https://www.thoughtworks.com/radar/languages-and-frameworks/webpack-5-module-federation)
+
 #### Micro-frontends decisions framework
 
 The 4 pillars that we need to decide up-front when architecting micro-frontends, as stated by [Luca Mezzalira](https://github.com/lucamezzalira) here in his medium article - [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513).
@@ -185,6 +187,9 @@ graph TD;
   A1[Fragment to Fragment]-->B2[Global Context and State]
   A1[Fragment to Fragment]-->B3[State Management Libraries Redux]
 ```
+
+
+#### Micro-Frontends anti-patterns
 
 #### Micro Frontends Frameworks
 
