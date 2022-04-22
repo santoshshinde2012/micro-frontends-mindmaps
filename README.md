@@ -6,14 +6,7 @@ In this repository, you will find mindmaps we created about Micro-Frontend based
 
 #### What is Micro-Frontend ?
 
-Microfrontends are the technical representation of a business subdomain, they provide strong boundaries with clear contracts, also they avoid sharing logic with other subdomains
-
-```mermaid
-graph TD;
-  Micro-Frontend-->A1[Defining Micro-Frontends];
-  Micro-Frontend-->A2[Composition of Micro-frontends];
-  Micro-Frontend-->A3[Micro-Frontends Communication];
-```
+Micro-frontends are the technical representation of a business subdomain, they allow independent implementation with the same and different technology.
 
 #### The History of Microfrontends
 
