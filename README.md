@@ -11,7 +11,7 @@ Micro-frontends are the technical representation of a business subdomain, they a
 #### The History of Microfrontends
 
 - 2011: Microservices
-- 2016: [Thought Works added to the technology radar](https://www.thoughtworks.com/radar/techniques/micro-frontends)
+- 2016: [Thought Works added Micro frontends to the technology radar](https://www.thoughtworks.com/radar/techniques/micro-frontends)
 - Nov 2017: [Thought Works recommended Single-Spa for Micro-frontends implementation](https://www.thoughtworks.com/en-in/radar/languages-and-frameworks/single-spa)
 - 2019: [Martin Fowler wrote his article about Micro-frontends and promoted Micro-frontends architecture in his article “Micro Frontends.”](https://martinfowler.com/articles/micro-frontends.html)
 - Apr 2020: [We see microfrontend architect design as a trend early in 2020 - Software Architecture and Design InfoQ Trends](https://www.infoq.com/articles/architecture-trends-2020/)
@@ -224,9 +224,14 @@ Module federation allows a JavaScript application to dynamically run code from a
 ![Micro-Frontend Mindmap](assets/v1-microfrontend-mandmap.png)
 
 
+### Case Studies
+
+- [Experiences Using Micro Frontends at IKEA](https://www.infoq.com/news/2018/08/experiences-micro-frontends/)
+
 #### References
 
 1. [Mindmap](https://www.xmind.net/m/nfT7ef/)
 2. [Behind leroymerlin.fr: Micro Frontends](https://medium.com/adeo-tech/behind-leroymerlin-fr-micro-frontends-47fd7c53f99d)
 3. [Resources to start with Micro Frontend](https://gist.github.com/santoshshinde2012/ff346ae8aca26644fe15409847138e49)
 4. [Micro Frontends Conference](https://hasgeek.com/jsfoo/microfrontends-conf/videos)
+5. [Micro frontend resources](https://github.com/billyjov/microfrontend-resources)
