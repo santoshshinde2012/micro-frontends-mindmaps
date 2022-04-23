@@ -10,6 +10,9 @@ Micro-frontends are the technical representation of a business subdomain, they a
 
 #### The History of Microfrontends
 
+![The History of Microfrontends](assets/micro-frontend-history.png)
+
+
 - 2011: Microservices
 - 2016: [Thought Works added Micro frontends to the technology radar](https://www.thoughtworks.com/radar/techniques/micro-frontends)
 - Nov 2017: [Thought Works recommended Single-Spa for Micro-frontends implementation](https://www.thoughtworks.com/en-in/radar/languages-and-frameworks/single-spa)
