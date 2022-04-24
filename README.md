@@ -147,6 +147,7 @@ graph TD;
 
 #### Micro-Frontends Communication Patterns
 
+
 ##### 1. Parent to Fragment
 
 
@@ -194,6 +195,13 @@ graph TD;
 - Unidirectional flow at the rescue
 - Avoid organizational coupling
 - Multiple micro-frontends calling same endpoint
+
+##### 1. Difference between micro-frontend and component
+
+| Component | Micro-Frontends |
+| :---: | :---: | 
+| Technical Solution | Technical Representation of business subdomain |
+| Technical Representation of business subdomain | Having some Behaviour but driven by self |
 
 
 #### Micro Frontends Frameworks
