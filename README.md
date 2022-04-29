@@ -198,10 +198,16 @@ graph TD;
 
 ##### 1. Difference between micro-frontend and component
 
+A micro-frontend is a technical representation of a business subdomain that has a specific behavior that is controlled by the self.
+
+A Component is a technical solution for any frontend element that has a specific behavior that may be modified by a controlled component or container.
+
+
 | Component | Micro-Frontends |
 | :---: | :---: | 
 | Technical Solution | Technical Representation of business subdomain |
 | Technical Representation of business subdomain | Having some Behaviour but driven by self |
+
 
 
 #### Micro Frontends Frameworks
