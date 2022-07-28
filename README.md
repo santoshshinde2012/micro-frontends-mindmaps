@@ -206,7 +206,7 @@ A Component is a technical solution for any frontend element that has a specific
 | Component | Micro-Frontends |
 | :---: | :---: | 
 | Technical Solution | Technical Representation of business subdomain |
-| Technical Representation of business subdomain | Having some Behaviour but driven by self |
+|  Having a specific behavior that may be modified by a controlled component or container. | Having some Behaviour but driven by self |
 
 
 
