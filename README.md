@@ -256,3 +256,4 @@ Module federation allows a JavaScript application to dynamically run code from a
 7. [Four Micro-frontend Anti-patterns](https://blog.santoshshinde.com/four-micro-frontend-anti-patterns-58aaa9fe19d5)
 8. [What’s the Difference Between a Component and a Micro-Frontend?](https://javascript.plainenglish.io/whats-the-difference-between-a-component-and-a-micro-frontend-43aefd0af062)
 9. [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends)
+10.[Use React components inside Angular](https://github.com/microsoft/angular-react)
