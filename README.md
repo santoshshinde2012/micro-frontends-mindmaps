@@ -196,6 +196,8 @@ graph TD;
 - Avoid organizational coupling
 - Multiple micro-frontends calling same endpoint
 
+![4 Micro-Frontend Anti-Patterns](assets/four-micro-frontend-anti-patterns.jpeg)
+
 ##### 1. Difference between micro-frontend and component
 
 A micro-frontend is a technical representation of a business subdomain that has a specific behavior that is controlled by the self.
