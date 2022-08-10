@@ -246,6 +246,7 @@ Module federation allows a JavaScript application to dynamically run code from a
 ### Case Studies
 
 - [Experiences Using Micro Frontends at IKEA](https://www.infoq.com/news/2018/08/experiences-micro-frontends/)
+- [What is a Micro Frontend? Examples and Mobile App Benefits](https://ionic.io/resources/articles/micro-frontends-for-mobile-with-ionic-portals)
 
 #### References
 
