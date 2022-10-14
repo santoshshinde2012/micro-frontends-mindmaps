@@ -211,6 +211,17 @@ A Component is a technical solution for any frontend element that has a specific
 |  Having a specific behavior that may be modified by a controlled component or container. | Having some Behaviour but driven by self |
 
 
+#### Implementation of  Micro Frontends
+
+There are several ways to implement a microfrontend, and this article([3 Ways to Build Micro-Frontends](https://javascript.plainenglish.io/3-ways-to-develop-micro-frontends-in-2022-e29984158b6d)) will help you understand them.
+
+According to my understanding, the application shell is the most crucial component of a microfrontend, as it is the component that enables you to render your all microfrontends inside of a container.
+
+###### Application shell
+
+The application shell serves as the parent application to all micro frontends. All incoming requests arrive there, It selects the micro frontend that the user wishes to view and renders it in the <body> documents.
+
+![Application shell](assets/micro-frontend-application-shell.jpg)
 
 #### Micro Frontends Frameworks
 
@@ -225,6 +236,7 @@ A Component is a technical solution for any frontend element that has a specific
 9. [FrintJS](https://github.com/frintjs/frint)
 10. [Mosaic 9](https://www.mosaic9.org/)
 11. [PuzzleJS](https://github.com/puzzle-js/puzzle-js)
+
 
 #### Microfrontends with Module Federation
 
