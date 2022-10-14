@@ -221,7 +221,7 @@ According to my understanding, the application shell is the most crucial compone
 
 The application shell serves as the parent application to all micro frontends. All incoming requests arrive there, It selects the micro frontend that the user wishes to view and renders it in the <body> documents.
 
-![Application shell](assets/micro-frontend-application-shell.jpg)
+![Application shell](assets/micro-frontends-application-shell.jpg)
 
 #### Micro Frontends Frameworks
 
