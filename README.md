@@ -250,6 +250,13 @@ Module federation allows a JavaScript application to dynamically run code from a
 - Better way to share code : Expose any code from any application that Webpack supports.
 - Environment-Independent : Use shared code in different environment web, Node.js etc.
 - Resolves Dependency Issues : Federated code defines their dependencies and if Webpack can’t find it in the scope, will download it.
+
+###### Advanced Topics
+
+- Version Mismatches
+- Dynamic Federation
+- Mono vs. Multirepo
+- Multiple Frameworks/Versions
 #### [Summary](https://www.xmind.net/m/nfT7ef/) 
 
 ![Micro-Frontend Mindmap](assets/v1-microfrontend-mandmap.png)
@@ -267,8 +274,11 @@ Module federation allows a JavaScript application to dynamically run code from a
 3. [Resources to start with Micro Frontend](https://gist.github.com/santoshshinde2012/ff346ae8aca26644fe15409847138e49)
 4. [Micro Frontends Conference](https://hasgeek.com/jsfoo/microfrontends-conf/videos)
 5. [Micro frontend resources](https://github.com/billyjov/microfrontend-resources)
-6. [Micro-frontend Anti-patterns](https://www.youtube.com/watch?v=b9Zpi-oajA0)
-7. [Four Micro-frontend Anti-patterns](https://blog.santoshshinde.com/four-micro-frontend-anti-patterns-58aaa9fe19d5)
-8. [What’s the Difference Between a Component and a Micro-Frontend?](https://javascript.plainenglish.io/whats-the-difference-between-a-component-and-a-micro-frontend-43aefd0af062)
-9. [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends)
-10. [Use React components inside Angular](https://github.com/microsoft/angular-react)
+6. [Four Micro-frontend Anti-patterns](https://blog.santoshshinde.com/four-micro-frontend-anti-patterns-58aaa9fe19d5)
+7. [What’s the Difference Between a Component and a Micro-Frontend?](https://javascript.plainenglish.io/whats-the-difference-between-a-component-and-a-micro-frontend-43aefd0af062)
+8. [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends)
+9. [Use React components inside Angular](https://github.com/microsoft/angular-react)
+
+#### Videos
+1. [Micro-frontend Anti-patterns](https://www.youtube.com/watch?v=b9Zpi-oajA0)
+2. [Micro-Frontends with Module Federation: Beyond the Basics](https://www.youtube.com/watch?v=tzXCrCwybgE)
