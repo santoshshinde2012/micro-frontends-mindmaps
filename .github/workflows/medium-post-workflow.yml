@@ -3,7 +3,8 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
-
+permissions:
+    contents: write
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -12,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "10"
-          feed_list: "https://medium.com/search/posts?q=microfrontend"
+          max_post_count: "20"
+          feed_list: "https://medium.com/tag/micro-frontends, https://medium.com/tag/module-federation"
