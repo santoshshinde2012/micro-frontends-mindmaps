@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
-          feed_list: "https://medium.com/tag/micro-frontends, https://medium.com/tag/module-federation"
+          feed_list: "https://medium.com/feed/tag/micro-frontends, https://medium.com/feed/tag/module-federation"
