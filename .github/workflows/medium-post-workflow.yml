@@ -15,3 +15,4 @@ jobs:
         with:
           max_post_count: "20"
           feed_list: "https://medium.com/feed/tag/micro-frontends, https://medium.com/feed/tag/module-federation"
+          template: "<tr><td><a href=$url>$title</a></td><td>$description</td></tr>"

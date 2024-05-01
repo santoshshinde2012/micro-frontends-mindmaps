@@ -291,28 +291,11 @@ Module federation allows a JavaScript application to dynamically run code from a
 
 ### Recent Medium Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Exploring Micro Frontends and Implementation with React +Vite](https://medium.com/@amalhan43/exploring-micro-frontends-and-implementation-with-react-vite-7178aa1886d4?source=rss------micro_frontends-5)
-- [Deployando um Microfrontend Angular na AWS com Github Actions](https://danlima-dev.medium.com/deployando-um-microfrontend-angular-na-aws-com-github-actions-d1da4180cac5?source=rss------module_federation-5)
-- [Dockerized Solid.js Micro-Frontends: Simplifying Scalable Web Applications](https://medium.com/@mihairazvantudorache/dockerized-solid-js-micro-frontends-simplifying-scalable-web-applications-828e3234343b?source=rss------micro_frontends-5)
-- [Shared Data-Layer Setup For Micro Frontend Application with Nx Workspace](https://javascript.plainenglish.io/shared-data-layer-setup-for-micro-frontend-application-with-nx-workspace-aec33f657a76?source=rss------module_federation-5)
-- [Balancing Act: Navigating Choices in Frontend Architecture — Micro-frontends vs. Monoliths](https://medium.com/@rgndunes/balancing-act-navigating-choices-in-frontend-architecture-micro-frontends-vs-monoliths-f4b5c72cb9bc?source=rss------micro_frontends-5)
-- [Understanding Micro frontends: A Comprehensive Guide](https://medium.com/simform-engineering/understanding-micro-frontends-a-comprehensive-guide-da41c57946ac?source=rss------micro_frontends-5)
-- [Understanding Micro frontends: A Comprehensive Guide](https://medium.com/simform-engineering/understanding-micro-frontends-a-comprehensive-guide-da41c57946ac?source=rss------module_federation-5)
-- [Solid.js, micro-frontends &amp; uniflow in practice](https://medium.com/@lxmarinkovic/solid-js-micro-frontends-uniflow-in-practice-06724a32358b?source=rss------micro_frontends-5)
-- [Solid.js, micro-frontends &amp; uniflow](https://medium.com/@lxmarinkovic/solid-js-micro-frontends-uniflow-5aa05b7d6822?source=rss------micro_frontends-5)
-- [Microfrontends com Nginx e Docker](https://medium.com/xp-inc/microfrontends-com-nginx-e-docker-a60b1de49328?source=rss------micro_frontends-5)
-- [Best 5 Micro Front-end Frameworks Every Developer Should Know](https://medium.com/nerd-for-tech/best-5-micro-front-end-frameworks-every-developer-should-know-f9e99a359e79?source=rss------micro_frontends-5)
-- [Evolution of Microfrontends](https://shamendra.medium.com/evolution-of-microfrontends-9e6b75d82f90?source=rss------micro_frontends-5)
-- [Webpack Module Federation ve ReactJS kullanarak Mikro Frontend Örnek Uygulama Geliştirme](https://medium.com/kocsistem/webpack-module-federation-ve-reactjs-kullanarak-mikro-frontend-%C3%B6rnek-uygulama-geli%C5%9Ftirme-0654f58faff9?source=rss------micro_frontends-5)
-- [Microfrontends in Angular with Bezael Pérez](https://medium.com/angularidades/microfrontends-in-angular-with-bezael-p%C3%A9rez-ea73930dfcb7?source=rss------module_federation-5)
-- [A Deep Dive into Micro Frontend Architecture with React.js](https://medium.com/@isuruariyarathna2k00/a-deep-dive-into-micro-frontend-architecture-with-react-js-264ca6edca6b?source=rss------module_federation-5)
-- [Shared UI Setup For Micro Frontend Application &lpar;Module Federation with React&rpar; with Nx Workspace](https://javascript.plainenglish.io/shared-ui-setup-for-micro-frontend-application-module-federation-with-react-with-nx-workspace-7bdffdc0161d?source=rss------module_federation-5)
-- [Mastering Module Federation: A Practical Guide to Building Scalable Microfrontends](https://mysteryweevil.medium.com/mastering-module-federation-a-practical-guide-to-building-scalable-microfrontends-f2decce5fc3e?source=rss------module_federation-5)
-- [The Biggest Drawback of Using Webpack Module Federation](https://medium.com/frontend-for-everyone/the-biggest-drawback-of-using-webpack-module-federation-bba592afbe5a?source=rss------module_federation-5)
-- [Angular: Integrating Micro-Frontends Using ModuleFederation-Part IV](https://javascript.plainenglish.io/angular-integrating-micro-frontends-using-modulefederation-part-iv-7218aabfd6d7?source=rss------module_federation-5)
-- [Angular: Integrating Micro-Frontends using ModuleFederation- Part-III](https://javascript.plainenglish.io/angular-integrating-micro-frontends-using-modulefederation-part-iii-ab7408965b66?source=rss------module_federation-5)
-<!-- BLOG-POST-LIST:END -->
+<table>
+  <tr><th>Title</th><th>Description</th></tr>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</table>
 
 <hr/>
 
