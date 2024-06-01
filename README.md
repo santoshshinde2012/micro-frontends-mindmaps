@@ -250,6 +250,7 @@ Module federation allows a JavaScript application to dynamically run code from a
 - Better way to share code : Expose any code from any application that Webpack supports.
 - Environment-Independent : Use shared code in different environment web, Node.js etc.
 - Resolves Dependency Issues : Federated code defines their dependencies and if Webpack can’t find it in the scope, will download it.
+- Modernize Legacy Applications: The microfrontend approach divides a frontend into smaller, deployable parts, but is crucial for real-time scenarios with legacy applications and modernization, as companies may be reluctant to rewrite entire applications.
 
 ###### Advanced Topics
 
@@ -279,6 +280,7 @@ Module federation allows a JavaScript application to dynamically run code from a
 8. [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends)
 9. [Use React components inside Angular](https://github.com/microsoft/angular-react)
 10. [Micro Frontend Architecture: Helping you move from theory to practice with our workshop](https://www.nearform.com/digital-community/micro-frontend-architecture-helping-you-move-from-theory-to-practice-with-our-workshop)
+11. [Micro Frontends — The Better Way to Modernize Legacy Applications](https://medium.com/@johnlawrimore/micro-frontends-a-game-changing-strategy-for-legacy-app-migrations-6288f50a6f72)
 
 #### Videos
 1. [Micro-frontend Anti-patterns](https://www.youtube.com/watch?v=b9Zpi-oajA0)
