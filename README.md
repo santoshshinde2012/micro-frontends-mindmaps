@@ -8,6 +8,19 @@ In this repository, you will find mindmaps we created about Micro-Frontend based
 
 Micro-frontends are the technical representation of a business subdomain, they allow independent implementation with the same and different technology.
 
+Please find the key factors for micro-frontends below.
+
+- Decomposed
+- Independent
+- Tech-Agnostic
+- Deployable Separately
+- Loosely Coupled
+- Customizable
+- Updated Incrementally
+- Fault-Tolerant
+
+
+
 #### The History of Microfrontends
 
 ![The History of Microfrontends](assets/micro-frontend-history.png)
@@ -267,6 +280,21 @@ Module federation allows a JavaScript application to dynamically run code from a
 
 - [Experiences Using Micro Frontends at IKEA](https://www.infoq.com/news/2018/08/experiences-micro-frontends/)
 - [What is a Micro Frontend? Examples and Mobile App Benefits](https://ionic.io/resources/articles/micro-frontends-for-mobile-with-ionic-portals)
+  
+
+#### When to use Micro Frontends ?
+
+Each pattern, as we know, has advantages and disadvantages, and in order to use it, we must establish a boundary between these and our requirements.
+
+- Ideal for large, fast-growing, and complex enterprise applications.
+- Provides implementation independence, preventing blockages and bottlenecks.
+- Ideal for independent deployments, allowing frequent updates without disrupting the entire application.
+- Ideal for fast-paced environments requiring agility and quick response to changing marketing demands.
+- Can accommodate different technology stacks, allowing teams to select the technology stack that best suits their needs
+- Minimizes the risk of failure by detaching or detanglering different components of the application
+- Enables collaboration between multiple, independent teams on a single application
+- Creates a flexible application, allowing different configurations for different user types.
+- Ideal for gradual modernization of existing solutions, allowing for gradual replacement of old components with micro-frontends.
 
 #### References
 
@@ -281,6 +309,7 @@ Module federation allows a JavaScript application to dynamically run code from a
 9. [Use React components inside Angular](https://github.com/microsoft/angular-react)
 10. [Micro Frontend Architecture: Helping you move from theory to practice with our workshop](https://www.nearform.com/digital-community/micro-frontend-architecture-helping-you-move-from-theory-to-practice-with-our-workshop)
 11. [Micro Frontends — The Better Way to Modernize Legacy Applications](https://medium.com/@johnlawrimore/micro-frontends-a-game-changing-strategy-for-legacy-app-migrations-6288f50a6f72)
+12. [Micro frontend architecture](https://www.rst.software/blog/micro-frontend-architecture-101-what-is-it-when-to-use-it-and-how-to-migrate-your-existing-monolithic-app-in-9-steps)
 
 #### Videos
 1. [Micro-frontend Anti-patterns](https://www.youtube.com/watch?v=b9Zpi-oajA0)
