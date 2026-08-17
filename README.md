@@ -322,7 +322,9 @@ Each pattern, as we know, has advantages and disadvantages, and in order to use 
 1. [Microfrontends with React: A Complete Developer's Guide](https://www.udemy.com/course/microfrontend-course/learn/lecture/23206792#overview) by [Stephen Grider](https://www.linkedin.com/in/stephengrider)
 
 
-### Recent Medium Posts
+### Recent Community Posts on Micro-Frontends
+
+<sub>Auto-pulled from the Medium <code>micro-frontends</code> and <code>module-federation</code> tags — these are the community's articles, not mine.</sub>
 
 <table>
   <tr><th>Title</th><th>Categories</th></tr>
@@ -333,8 +335,8 @@ Each pattern, as we know, has advantages and disadvantages, and in order to use 
 
 ### Connect with me on
 <div id="badges">
-  <a href="https://twitter.com/shindesan2012">
-    <img src="https://img.shields.io/badge/shindesan2012-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/sanshinde2012">
+    <img src="https://img.shields.io/badge/sanshinde2012-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shindesantosh/">
     <img src="https://img.shields.io/badge/shindesantosh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
